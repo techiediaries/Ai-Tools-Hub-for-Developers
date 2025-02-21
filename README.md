@@ -9,7 +9,7 @@ These tools are designed to assist developers at every stage of the development 
 ## UI Screenshot to Code Tools
 
 > Before listing the tools, here is a quick tip on how to take a full-page screenshot with Chrome DevTools:
-Start by pressing Ctrl+Shift+P (Windows/Linux) or Cmd+Shift+P (Mac) to open the Command Menu. Then, in the Command Menu, start typing “screenshot” until you see the option “Capture full-size screenshot.Click Capture full-size screenshot from the list, and Chrome will automatically scroll through the entire page and capture a screenshot. The screenshot will be saved to your default Downloads folder.
+> After opening DevTools, press Ctrl+Shift+P (Windows/Linux) or Cmd+Shift+P (Mac) to open the Run command Menu. Then, in the Run command menu, start typing “screenshot” until you see the option "Capture full-size screenshot".Click "Capture full-size screenshot" from the list, and Chrome will automatically scroll through the entire page and capture a screenshot. The screenshot will be saved to your default Downloads folder.
 
 - [Quick Screenshot to Code](https://www.figma.com/community/plugin/1393007160057387991/quick-screenshot-to-code): This a plugin for Figma. As described by his creator:
 > Paste a small screenshot of any website you would like inside of a Figjam page. Open the Quick Screenshot to Code plugin. Select the screenshot and click "Convert". The process takes a few seconds, but the plugin will generate fully-functional HTML and CSS code into a code block on the screen.
